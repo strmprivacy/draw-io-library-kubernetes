@@ -1,0 +1,184 @@
+<mxlibrary>
+[
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/c-role.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Cluster Role"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/cm.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Config Map"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/crb.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Cluster Role Binding"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/crd.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Custom Resource Definition"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/cronjob.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Cron Job"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/deploy.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Deployment"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/ds.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Daemon Set"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/ep.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Endpoint"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/group.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Group"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/hpa.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Horizontal Pod Autoscaler"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/ing.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Ingress"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/job.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Job"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/limits.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Limit Ranges"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/netpol.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Network Policies"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/ns.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Namespace"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/pod.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Pod"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/psp.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Pod Security Policy"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/pv.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Persistent Volume"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/pvc.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Persistent Volume Claim"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/quota.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Resource Quota"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/rb.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Role Binding"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/role.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Role"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/rs.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Replica Set"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/sa.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Service Account"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/sc.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Storage Class"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/secret.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Secret"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/sts.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Stateful Set"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/svc.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Service"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/user.svg",
+    "w": 68,
+    "h": 66,
+    "title": "User"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/kubernetes/community/master/icons/svg/resources/labeled/vol.svg",
+    "w": 68,
+    "h": 66,
+    "title": "Volume"
+  }
+]
+</mxlibrary>
