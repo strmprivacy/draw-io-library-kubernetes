@@ -1,5 +1,5 @@
 # Library with Kubernetes icons for draw.io
-Contains icons for creating draw.io diagrams for Kubernetes based infrastructure
+Since there are no icons available by default in draw.io for drawing Kubernetes infrastructure, we've bundled up the icons from the Kubernetes Community repository in a library.
 
 ![Kubernetes Icons in draw.io](draw-io-screenshot.png)
 
